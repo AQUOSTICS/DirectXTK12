@@ -1,0 +1,5 @@
+externalproject "DirectXTK12"
+   filename "DirectXTK_Desktop_2022_Win10"
+   uuid "3297DC10-0DE3-11ED-861D-0242AC120002"
+   kind "StaticLib"
+   language "C++"
